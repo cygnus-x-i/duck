@@ -1,6 +1,6 @@
 # duck
 
-this can probably be considered a virus.  be careful with it; it is EXTREMELY dangerous.
+this could probably be considered a virus.  be careful with it; it is EXTREMELY dangerous.
 
 i stole the duck sound from youtube. It is 100% copyrighted, all credit goes to the duck.
 
