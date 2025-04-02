@@ -1,6 +1,6 @@
 # duck
 
-i stole the duck sound from youtube. It is 100% copyrighted, all credit goes to the duck.
+i stole the duck sound from youtube. all credit goes to the duck.
 
 INSTALLATION:
 
